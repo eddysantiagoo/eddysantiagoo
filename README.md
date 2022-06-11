@@ -29,11 +29,17 @@ class EddySantiago():
 if __name__ == '__main__':
     me = EddySantiago()
 ```
-<!--
+
+
+
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/s4ntiag00">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s4ntiag00&unique={true|1|on|yes})">
-  </a>
-</div> -->
-
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=s4ntiag00&count=2">
+  </a
+</div>
+    
+<!--
+ <img src="https://readme-spotify-tingz.vercel.app/api/now-playing"> 
+    -->
