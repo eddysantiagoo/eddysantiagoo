@@ -1,12 +1,3 @@
-<!-- <h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
-
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
-
-<br> -->
 
 <p>
 <div align="center">
@@ -16,30 +7,30 @@ and learning programming through small projects  on the side.
 </div>
 </p>
 
-```python
-class EddySantiago():
+```javascript
+class Self {
+  constructor(name, location, creditCard){
     
-  def __init__(self):
-    self.name = "Eddy Santiago";
-    self.username = "eddysantiagoo";
-    self.location = "Colombia";
-  
-  def __str__(self):
-    return self.name
-if __name__ == '__main__':
-    me = EddySantiago()
+    this.name = "Eddy Santiago";
+    this.location = "Colombia";
+    #creditCard = 453590 + "xxxxxxxxxx";
+  }
+}
 ```
-
-
-
+<br>
+<div align="center">
+  <a href="https://instagram.com/santi.xoo/"  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-a61c4b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=282828">
+  </a>
+  <a href="https://www.linkedin.com/in/eddysantiagoo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-124b63?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828">
+  </a>
+</div>       
+<br>
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/s4ntiag00">
+  <a href="https://open.spotify.com/user/s4ntiag00"  target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=s4ntiag00&count=2">
-  </a
+  </a>
 </div>
-    
-<!--
- <img src="https://readme-spotify-tingz.vercel.app/api/now-playing"> 
-    -->
