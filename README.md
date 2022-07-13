@@ -19,9 +19,6 @@ class Self {
 ```
 <br>
 <div align="center">
-  <a href="https://instagram.com/santi.xoo/"  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-a61c4b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=282828">
-  </a>
   <a href="https://www.linkedin.com/in/eddysantiagoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-124b63?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828">
   </a>
