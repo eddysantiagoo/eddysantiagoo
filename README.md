@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-177096?style=for-the-badge&logo=css3&logoColor=177096&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-React-09b6d9?style=for-the-badge&logo=react&logoColor=09b6d9&labelColor=282828">
 </div>
 </p>
 
