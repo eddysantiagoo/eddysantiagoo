@@ -9,7 +9,7 @@
 
 <!-- Segunda sección, constructor de clase -->
 
-<img align='right' src="https://i.ibb.co/52LVRvY/dark-souls-bonfi.gif" width="160">
+<img align='right' src="https://i.ibb.co/52LVRvY/dark-souls-bonfi.gif" width="140">
 
 ```javascript
 class Self {
