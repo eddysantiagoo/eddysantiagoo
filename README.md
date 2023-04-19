@@ -22,7 +22,7 @@ class Self {
 }
 ```
 
-<h6 align='right'>Hard day, huh? Stay to rest a little at the <a href="https://www.tiktok.com/@alzy.souls/video/7200456240714075398" target="_blank">bonfire</a> with me :)</h6>
+<h6 align='right'>Hard day, huh? Stay to rest a little at the <a href="https://eddy-portafolio.vercel.app/TheBonfire" target="_blank">bonfire</a> with me :)</h6>
 
 <!-- Tercera sección, redes sociales-->
 
