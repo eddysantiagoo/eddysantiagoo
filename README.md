@@ -40,7 +40,8 @@ class Self {
 <!-- Cuarta sección, Spotify-->
 
 <div align="center">
-  <a href="https://open.spotify.com/user/s4ntiag00"  target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=s4ntiag00&count=2">
+  <a href="https://open.spotify.com/user/s4ntiag00" target="_blank" style="display: flex; justify-content: center;">
+    <img src="https://spotify-dynamic-readme.vercel.app/spotify" width="350px" />
   </a>
 </div>
+
