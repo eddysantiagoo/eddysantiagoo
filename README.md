@@ -41,7 +41,7 @@ class Self {
 
 <div align="center">
   <a href="https://open.spotify.com/user/s4ntiag00" target="_blank" style="display: flex; justify-content: center;">
-    <img src="https://spotify-dynamic-readme.vercel.app/spotify" width="350px" />
+    <img src="https://spotify-dynamic-readme.vercel.app/spotify" width="330px" />
   </a>
 </div>
 
