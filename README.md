@@ -1,4 +1,4 @@
-<!-- Primera sección, lenguajes -->
+<!-- Primera sección, lenguajes
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -9,20 +9,10 @@
 
 <!-- Segunda sección, constructor de clase -->
 
-<img align='right' src="https://i.ibb.co/52LVRvY/dark-souls-bonfi.gif" width="140">
+<img align='center' src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="140">
 
-```javascript
-class Self {
-  constructor(name, location, creditCard){
-    
-    this.name = "Eddy Santiago";
-    this.location = "Colombia";
-    let _creditCard = 453590 + "xxxxxxxxxx" + "|06|2025|581";
-  }
-}
-```
 
-<h6 align='right'>Hard day, huh? Stay to rest a little at the <a href="https://eddy-portafolio.vercel.app/bonfire" target="_blank">bonfire</a> with me :)</h6>
+<h6 align='left'>Hard day, huh? Stay to rest a little at the <a href="https://eddy-portafolio.vercel.app/bonfire" target="_blank">bonfire</a> with me :)</h6>
 
 <!-- Tercera sección, redes sociales-->
 
