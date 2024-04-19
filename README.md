@@ -15,12 +15,11 @@
 <h6 align='left'>Hard day, huh? Stay to rest a little at the <a href="https://eddyy.dev/bonfire" target="_blank">bonfire</a> with me :)</h6>
 
 <!-- Tercera sección, redes sociales-->
-
-<br>
-<div align="left">
   <a href="https://www.linkedin.com/in/eddysantiagoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-124b63?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828">
   </a>
+<div align="left">
+
   <a href="https://eddyy.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-757552?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=282828">
   </a>
