@@ -16,12 +16,12 @@
 
 <!-- Tercera sección, redes sociales-->
   <a href="https://www.linkedin.com/in/eddysantiagoo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-124b63?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828">
+    <img src="https://img.shields.io/badge/LinkedIn-124b63?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=f1ede4">
   </a>
 <div align="left">
 
   <a href="https://eddyy.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-757552?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=282828">
+    <img src="https://img.shields.io/badge/www.eddyy.dev-141517?style=for-the-badge&logo=Microsoft-edge&logoColor=black&labelColor=f1ede4">
   </a>
 </div>       
 <br>
